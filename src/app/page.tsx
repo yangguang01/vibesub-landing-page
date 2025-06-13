@@ -141,8 +141,8 @@ export default function Home() {
             <div className="md:col-span-1">
               <HeroVideoDialog
                 animationStyle="from-left"
-                videoSrc="/kecheng.mp4"
-                thumbnailSrc="https://9h3xfzbmznowmc7x.public.blob.vercel-storage.com/kecheng-pFDpxYR9tCxoU3TWvxpckvM2uUZBne.mp4"
+                videoSrc="https://9h3xfzbmznowmc7x.public.blob.vercel-storage.com/kecheng-pFDpxYR9tCxoU3TWvxpckvM2uUZBne.mp4"
+                thumbnailSrc="/kecheng.png"
                 thumbnailAlt="名校课程视频演示"
               />
             </div>
