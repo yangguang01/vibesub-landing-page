@@ -41,7 +41,7 @@ export default function Home() {
           
           <HeroVideoDialog
             animationStyle="from-center"
-            videoSrc="/vibeSub-1.mp4"
+            videoSrc="https://9h3xfzbmznowmc7x.public.blob.vercel-storage.com/vibesub-1-hymJdQVyPUClwVkphV0FfKBhGfyB4h.mp4"
             thumbnailSrc="/wechat_2025-06-12_224459_046.png"
             thumbnailAlt="VibeSub视频演示"
           />
@@ -125,7 +125,7 @@ export default function Home() {
             <div className="md:col-span-1">
               <HeroVideoDialog
                 animationStyle="from-right"
-                videoSrc="/ai.mp4"
+                videoSrc="https://9h3xfzbmznowmc7x.public.blob.vercel-storage.com/ai-b8EUpX4mcLp4jVtViJlDM5xbMzY42I.mp4"
                 thumbnailSrc="/ai.png"
                 thumbnailAlt="AI资讯视频演示"
               />
@@ -142,7 +142,7 @@ export default function Home() {
               <HeroVideoDialog
                 animationStyle="from-left"
                 videoSrc="/kecheng.mp4"
-                thumbnailSrc="/kecheng.png"
+                thumbnailSrc="https://9h3xfzbmznowmc7x.public.blob.vercel-storage.com/kecheng-pFDpxYR9tCxoU3TWvxpckvM2uUZBne.mp4"
                 thumbnailAlt="名校课程视频演示"
               />
             </div>
@@ -167,7 +167,7 @@ export default function Home() {
             <div className="md:col-span-1">
               <HeroVideoDialog
                 animationStyle="from-right"
-                videoSrc="/yule.mp4"
+                videoSrc="https://9h3xfzbmznowmc7x.public.blob.vercel-storage.com/yule-Qzmc1B6bjxAjavSIkVJyD5KUXBTdMa.mp4"
                 thumbnailSrc="/yule.png"
                 thumbnailAlt="AI资讯视频演示"
               />
