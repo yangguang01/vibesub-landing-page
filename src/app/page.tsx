@@ -1,3 +1,5 @@
+"use client";
+
 import { Button } from "@/components/ui/button";
 import { AuroraText } from "@/components/magicui/aurora-text";
 import { DotPattern } from "@/components/magicui/dot-pattern";
@@ -31,7 +33,9 @@ export default function Home() {
           AI驱动的<AuroraText>YouTube字幕翻译</AuroraText>工具
         </h1>
         <p className="z-10 text-2xl mb-8 text-gray-600 font-medium">语言不再是障碍，用母语感受全球优质内容</p>
-        <RainbowButton>免费添加至Chrome</RainbowButton>
+        <RainbowButton onClick={() => window.open('https://chromewebstore.google.com/detail/vibesub-youtube%E5%AD%97%E5%B9%95%E7%BF%BB%E8%AF%91/cheomgjcpoegfhjjejnekfehjfbjpaop?authuser=0&hl=zh-CN', '_blank')}>
+          免费添加至Chrome
+        </RainbowButton>
         
       </section>
 
